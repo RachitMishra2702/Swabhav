@@ -1,0 +1,19 @@
+git -> to store all your work
+can create snapshots of your work
+create repositry to save all your work
+
+git init 
+
+git log to check work status
+
+git add . and git commit -m 'file info' to save documents 
+git checkout to go to different branches 
+
+git checkout master to go to the final folder 
+
+save it in cloud github
+
+to push files use command 
+git - remote add petname url 
+
+git push petname master
